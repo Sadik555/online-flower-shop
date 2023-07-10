@@ -1,0 +1,36 @@
+.header{
+    width: 1920px;
+height: 850px;
+flex-shrink: 0;
+background: rgba(229, 84, 115, 0.10);
+}
+.banner{
+    display: flex;
+    align-items: center;
+    margin-left: 240px;
+    margin-right: 240px;
+    margin-bottom: 147px;
+
+}
+.banner-title{
+    display: flex;
+width: 708px;
+flex-direction: column;
+flex-shrink: 0;
+color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-weight: 800;
+
+}
+.profile-pic{
+    padding-bottom: 0;
+}
+.btn-primary{
+    display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+}
