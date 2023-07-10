@@ -74,7 +74,28 @@ height: 538px;
     padding: 30px;
     
 }
-.name{
-    text-align: center;
-    display: flex;
+.text-primary{
+    color: #E55473;
+}
+.about{
+    width: 1922px;
+height: 620px;
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+display: flex;
+text-align: center;
+padding-top: 300px;
+padding-left: 390px;
+
+}
+.about-title{
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+margin-left: 0;
+}
+.about-i{
+    margin-right: 430px;
+    margin-left: 1175px;
 }
