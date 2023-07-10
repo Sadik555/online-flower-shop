@@ -107,3 +107,24 @@ font-family: Lato;
 font-size: 40px;
 font-weight: 800;
 }
+.subscribe{
+    text-align: center;
+    align-items: center;
+    width: 1440px;
+height: 449px;
+border-radius: 8px;
+background: url(./Rectangle\ 9.png), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+margin-left: 240px;
+
+}
+.subscribe-title{
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+.box{
+    width: 700px;
+height: 64px;
+}
