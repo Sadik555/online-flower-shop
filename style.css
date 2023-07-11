@@ -47,6 +47,7 @@ margin-top: 100px;
 text-align: center;
 }
 
+
 .img1{
     background: rgba(167, 33, 98, 0.15);
     border-radius: 300px 300px 0px 0px;
@@ -71,14 +72,10 @@ height: 538px;
 .f-flowers{
     margin-left: 240px;
     margin-right: 240px;
-    margin-bottom: 100px;
     display: flex;
     padding: 30px;
-    
 }
-.flowers-title{
-    display: flex;
-}
+
 .text-primary{
     color: #E55473;
 }
