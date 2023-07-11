@@ -113,6 +113,23 @@ width: 594px;
 .about-img{
     padding: 0px 30px 30px 30px;
 }
+.extra{
+    display: flex;
+    width: 1922px;
+    height: 449px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.extra-title{
+    padding-top: 50px;
+}
+.e-description{
+    padding-left: 200px;
+}
+.e-flower{
+    justify-content: space-between;
+}
 .social{
     text-align: center;
     margin-top: 30px;
