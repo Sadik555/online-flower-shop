@@ -1,6 +1,6 @@
 .header{
     width: 1920px;
-height: 850px;
+height: 800px;
 flex-shrink: 0;
 background: rgba(229, 84, 115, 0.10);
 }
@@ -40,6 +40,7 @@ text-align: center;
 font-family: Lato;
 font-size: 40px;
 font-weight: 800;
+margin-top: 100px;
 }
 .section-p{
 
@@ -49,7 +50,7 @@ text-align: center;
 .img1{
     background: rgba(167, 33, 98, 0.15);
     border-radius: 300px 300px 0px 0px;
-    margin-right: 10px;
+    margin-right: 20px;
     width: 464px;
 height: 538px
 
@@ -57,7 +58,7 @@ height: 538px
 .img2{
     border-radius: 300px 300px 0px 0px;
 background: rgba(5, 151, 160, 0.15);
-margin-right: 10px;
+margin-right: 20px;
 width: 464px;
 height: 538px;
 }
@@ -70,9 +71,13 @@ height: 538px;
 .f-flowers{
     margin-left: 240px;
     margin-right: 240px;
+    margin-bottom: 100px;
     display: flex;
     padding: 30px;
     
+}
+.flowers-title{
+    display: flex;
 }
 .text-primary{
     color: #E55473;
@@ -86,6 +91,7 @@ display: flex;
 text-align: center;
 padding-top: 300px;
 padding-left: 390px;
+font-size: 45PX;
 
 }
 .about-title{
@@ -115,6 +121,7 @@ height: 449px;
 border-radius: 8px;
 background: url(./Rectangle\ 9.png), lightgray 0px -203.444px / 100% 213.755% no-repeat;
 margin-left: 240px;
+margin-top: 100px;
 
 }
 .subscribe-title{
